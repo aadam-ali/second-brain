@@ -1,10 +1,10 @@
 # Allow key repeat on VSCode (MacOS)
 
 After installing the Vim plugin for VSCode on MacOS, I noticed that key
-presses weren't repeating. Thus requiring me to repetitively
-press a key e.g. `hjkl` to move around a file. To achieve the desired
-behaviour of pressing a key and keeping it pressed, you need to disable
-the Apple press and hold functionality (this allows you to type accented
+presses weren't repeating. Thus requiring me to repetitively press a key
+e.g. `hjkl` to move around a file. To achieve the desired behaviour of
+pressing a key and keeping it pressed, you need to disable the Apple
+press and hold functionality (this allows you to type accented
 characters).
 
 To disable Apple press and hold for VSCode:

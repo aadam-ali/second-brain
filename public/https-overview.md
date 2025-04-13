@@ -9,8 +9,8 @@ HTTPS uses TLS (Transport Layer Security) formerly SSL (Secure Socket
 Layer) to encrypt communication using public key cryptography, which
 leverages two distinct keys to encrypt communication:
   * Public key - accessible by anyone who wants to make a request to a
-    server, any data encrypted with this key can **only** by decrypted
-    by the private key
+    server, any data encrypted with this key can **only** by decrypted by
+    the private key
   * Private key - this key is owned by the server owner and is kept
     private, it is used to decrypt the data encrypted by the public key
 
