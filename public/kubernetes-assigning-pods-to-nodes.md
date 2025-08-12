@@ -19,4 +19,4 @@ pod needs, the scheduler uses that information to assign the pod to a
 node with enough resource available.
 
 Related:
-- [[kubernetes-scheduler]]
+- [kubernetes-scheduler](kubernetes-scheduler.md)

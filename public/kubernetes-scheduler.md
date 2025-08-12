@@ -16,4 +16,4 @@ triggering the provisioning of a new valid node if node autoscaling has
 been configured.
 
 Related:
-- [[kubernetes-api-server]]
+- [kubernetes-api-server](kubernetes-api-server.md)

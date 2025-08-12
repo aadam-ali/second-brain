@@ -21,4 +21,4 @@ There are currently 8 namespaces:
   NIS domain name
 
 Related:
-  * [[cgroups]]
+  * [cgroups](cgroups.md)

@@ -10,4 +10,4 @@ Protocol [Secure]), SMTP (Simple Mail Transfer Protocol), POP3 (Post
 Office Protocol version 3) etc.
 
 Related:
-  * [[osi-model]]
+  * [osi-model](osi-model.md)

@@ -15,4 +15,4 @@ Transport layer protocols include TCP (Transmission Control Protocol)
 and UDP (User Datagram Protocol).
 
 Related:
-  * [[osi-model]]
+  * [osi-model](osi-model.md)

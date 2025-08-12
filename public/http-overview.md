@@ -24,4 +24,4 @@ HTTP responses consist of:
 HTTP conventially uses port 80.
 
 Related:
-  * [[osi-model-application-layer-7]]
+  * [osi-model-application-layer-7](osi-model-application-layer-7.md)

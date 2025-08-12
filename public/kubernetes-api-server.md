@@ -9,5 +9,5 @@ It's a RESTful API server that is exposed over HTTPS and handles
 authorisation and authentication of requests.
 
 Related:
-- [[kubernetes-cluster-store]]
+- [kubernetes-cluster-store](kubernetes-cluster-store.md)
 - [[https-overview]]

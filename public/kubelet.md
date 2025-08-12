@@ -8,4 +8,4 @@ instructing the relevant runtime to execute tasks, and reporting the
 status of tasks to the API server.
 
 Related:
-- [[kubernetes-api-server]]
+- [kubernetes-api-server](kubernetes-api-server.md)

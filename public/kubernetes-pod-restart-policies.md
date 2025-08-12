@@ -15,4 +15,4 @@ The restart policy applies to all containers running in a pod except for
 any init containers.
 
 Related:
-- [[kubelet]]
+- [kubelet](kubelet.md)

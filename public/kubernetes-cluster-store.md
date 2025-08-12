@@ -17,4 +17,4 @@ ensure this when multiple sources are attempting to modify the same
 value, `etcd` makes use of the RAFT consensus algorithm.
 
 Related:
-- [[kubernetes-control-plane]]
+- [kubernetes-control-plane](kubernetes-control-plane.md)
