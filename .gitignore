@@ -3,4 +3,6 @@ inbox/
 private/
 journal/
 
+*daily*.md
+
 *.swp
