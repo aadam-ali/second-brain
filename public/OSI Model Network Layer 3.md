@@ -12,5 +12,5 @@ Network layer protocols include IP (Internet Protocol) and ICMP
 (Internet Control Message Protocol).
 
 Related:
-  * [osi-model](osi-model.md)
-  * [osi-model-transport-layer-4](osi-model-transport-layer-4.md)
+  * [OSI Model](OSI%20Model.md)
+  * [OSI Model Transport Layer 4](OSI%20Model%20Transport%20Layer%204.md)

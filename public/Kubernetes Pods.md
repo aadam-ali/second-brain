@@ -22,5 +22,5 @@ rolling updates and more. Static pods do not share these benefits since
 they're only managed by the Kubelet of the node they run on.
 
 Related:
-- [kubernetes-deployments](kubernetes-deployments.md)
+- [Kubernetes Deployments](Kubernetes%20Deployments.md)
 - [kubelet](kubelet.md)

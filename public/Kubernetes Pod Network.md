@@ -14,4 +14,4 @@ without much security to allow easy of use, Network Policies and other
 techniques should be used to ensure network security.
 
 Related:
-- [kubernetes-network-policies](kubernetes-network-policies.md)
+- [Kubernetes Network Policies](Kubernetes%20Network%20Policies.md)

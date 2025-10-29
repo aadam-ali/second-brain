@@ -13,4 +13,4 @@ Cgroups provide:
   restarting
 
 Related:
-  * [namespaces](namespaces.md)
+  * [Namespaces](Namespaces.md)

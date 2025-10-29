@@ -23,6 +23,8 @@ work related. For the best experience of exploring these notes I suggest
 using Obsidian, which is GUI I use despite using (neo)vim to do most of
 my writing.
 
+Read more about my [Note Taking Strategy](public/Note%20Taking%20Strategy.md).
+
 ## Honourable Mentions
 
 The two following blogposts reminded me of my original intention of

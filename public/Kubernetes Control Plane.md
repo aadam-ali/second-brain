@@ -2,11 +2,11 @@
 
 The control plane is a set of services that manages the behaviour of
 Kubernetes:
-- [kubernetes-api-server](kubernetes-api-server.md)
-- [kubernetes-cluster-store](kubernetes-cluster-store.md)
-- [kubernetes-controllers](kubernetes-controllers.md)
-- [kubernetes-scheduler](kubernetes-scheduler.md)
-- [kubernetes-cloud-controller-manager](kubernetes-cloud-controller-manager.md)
+- [Kubernetes API Server](Kubernetes%20API%20Server.md)
+- [Kubernetes Cluster Store](Kubernetes%20Cluster%20Store.md)
+- [Kubernetes Controllers](Kubernetes%20Controllers.md)
+- [Kubernetes Scheduler](Kubernetes%20Scheduler.md)
+- [Kubernetes Cloud Controller Manager](Kubernetes%20Cloud%20Controller%20Manager.md)
 
 Whilst a simple setup would contain a single control plane node, it is
 recommended to have three or five spread across availability zones in

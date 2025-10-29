@@ -6,5 +6,5 @@ Public notes are synced with GitHub to the
 [`aadam-ali/second-brain`](https://github.com/aadam-ali/second-brain)
 repository.
 
-Private notes are synced across devices using Syncthing, excluding work
-notes, which are only stored on work systems.
+Private notes are synced across devices using Syncthing, excluding work notes,
+which are only stored on work systems.

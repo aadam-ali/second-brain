@@ -1,4 +1,4 @@
-# Kubelet
+# kubelet
 
 As the primary Kubernetes agent, the kubelet is responsible for managing
 all communication with the cluster.
@@ -8,4 +8,4 @@ instructing the relevant runtime to execute tasks, and reporting the
 status of tasks to the API server.
 
 Related:
-- [kubernetes-api-server](kubernetes-api-server.md)
+- [Kubernetes API Server](Kubernetes%20API%20Server.md)

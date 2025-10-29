@@ -11,5 +11,5 @@ etc.). This allows containers to virtualise the operating system
 portable when compared to virtual machines.
 
 Related:
-- [namespaces](namespaces.md)
-- [cgroups](cgroups.md)
+- [Namespaces](Namespaces.md)
+- [Cgroups](Cgroups.md)
