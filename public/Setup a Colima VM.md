@@ -1,5 +1,6 @@
-# Setup a Colima VM
-
+---
+title: Setup a Colima VM
+---
 Run the following command:
 ```bash
 colima start \

@@ -1,5 +1,6 @@
-# Allow key repeat on VSCode (MacOS)
-
+---
+title: Allow key repeat on VSCode (MacOS)
+---
 After installing the Vim plugin for VSCode on MacOS, I noticed that key
 presses weren't repeating. Thus requiring me to repetitively press a key
 e.g. `hjkl` to move around a file. To achieve the desired behaviour of

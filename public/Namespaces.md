@@ -1,5 +1,6 @@
-# Namespaces
-
+---
+title: Namespaces
+---
 Namespaces are a feature of the Linux kernel that allow processes to see
 different sets of resources. They work by making it appear to a process
 that it has it's own isolated instance of the global resource.  Changes

@@ -1,5 +1,6 @@
-# Kubernetes Pod Restart Policies
-
+---
+title: Kubernetes Pod Restart Policies
+---
 Kubernetes cannot restart pods but can restart the containers running
 within pods, this is done by the Kubelet. If a pod fails, a new one is
 created to replace it and the failed one is deleted.

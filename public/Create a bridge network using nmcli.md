@@ -1,5 +1,6 @@
-# Create a bridge network using `nmcli`
-
+---
+title: Create a bridge network using `nmcli`
+---
 1. List all connections to identify `<existing-connection-name>`: `nmcli
    connection show`
 2. `nmcli connection delete <existing-connection-name>`

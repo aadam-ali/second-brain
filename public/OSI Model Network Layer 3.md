@@ -1,5 +1,6 @@
-# OSI Model Network Layer (3)
-
+---
+title: OSI Model Network Layer (3)
+---
 The network layer facilitates the data transfer between two distinct
 networks. It breaks `segments` from the transport layer into `packets`
 when sending data and reassembles `packets` into `segments` when

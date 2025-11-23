@@ -1,5 +1,6 @@
-# OSI Model
-
+---
+title: OSI Model
+---
 The OSI model is a conceptual model that allows different devices to
 communicate using standard protocols.
 

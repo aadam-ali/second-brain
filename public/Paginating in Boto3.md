@@ -1,5 +1,6 @@
-# Paginating in Boto3
-
+---
+title: Paginating in Boto3
+---
 While the boto3 library does provide paginators, they are not available
 for every function. However, most functions will return either a
 `NextToken` or `NextMarker`

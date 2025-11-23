@@ -1,5 +1,6 @@
-# kubelet
-
+---
+title: kubelet
+---
 As the primary Kubernetes agent, the kubelet is responsible for managing
 all communication with the cluster.
 

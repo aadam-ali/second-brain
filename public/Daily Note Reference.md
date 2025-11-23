@@ -1,5 +1,6 @@
-# Daily Note Reference
-
+---
+title: Daily Note Reference
+---
 This reference takes inspiration from the [Conventional
 Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification for Git
 commit messages.

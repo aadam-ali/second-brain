@@ -1,5 +1,6 @@
-# What is a container?
-
+---
+title: What is a container?
+---
 A container is a standard package of software that contains all
 necessary application code (or an application binary), runtimes,
 dependencies, and configuration files to run said application.

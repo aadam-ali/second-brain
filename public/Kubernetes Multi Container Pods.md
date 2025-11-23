@@ -1,5 +1,6 @@
-# Kubernetes Multi-Container Pods
-
+---
+title: Kubernetes Multi-Container Pods
+---
 Kubernetes supports two types of multi-container pods, init containers
 and sidecar containers.
 

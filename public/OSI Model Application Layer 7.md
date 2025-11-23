@@ -1,5 +1,6 @@
-# OSI Model Application Layer (7)
-
+---
+title: OSI Model Application Layer (7)
+---
 The application layer interacts with data from the user by allowing
 software to initiate network communications. It is responsible for the
 protocols and data manipulation that presents the user with meaningful

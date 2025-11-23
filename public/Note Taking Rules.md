@@ -1,5 +1,6 @@
-# Note Taking Rules
-
+---
+title: Note Taking Rules
+---
 1. Notes SHOULD be created using the
    [`second-brain-cli`](https://github.com/aadam-ali/second-brain-cli)<sup>1</sup>
    (or the Obsidian app if on mobile)

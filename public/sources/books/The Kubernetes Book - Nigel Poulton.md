@@ -1,5 +1,6 @@
-# The Kubernetes Book - Nigel Poulton
-
+---
+title: The Kubernetes Book - Nigel Poulton
+---
 ## Kubernetes principles of operation
 
 - [Kubernetes Control Plane](../../Kubernetes%20Control%20Plane.md)

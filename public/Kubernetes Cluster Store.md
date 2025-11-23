@@ -1,5 +1,6 @@
-# Kubernetes Cluster Store
-
+---
+title: Kubernetes Cluster Store
+---
 The cluster store persists the desired state of the cluster - it is the
 only stateful component of the control plane
 

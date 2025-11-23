@@ -1,5 +1,6 @@
-# Kubernetes Control Plane
-
+---
+title: Kubernetes Control Plane
+---
 The control plane is a set of services that manages the behaviour of
 Kubernetes:
 - [Kubernetes API Server](Kubernetes%20API%20Server.md)

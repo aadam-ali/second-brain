@@ -1,5 +1,6 @@
-# Kubernetes Scheduler
-
+---
+title: Kubernetes Scheduler
+---
 The scheduler monitors the API server for new workload tasks and assigns
 them to healthy worker nodes. It selects appropriate nodes by running
 checks, filtering, and a ranking algorithm.

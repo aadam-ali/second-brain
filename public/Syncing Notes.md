@@ -1,5 +1,6 @@
-# Syncing Notes
-
+---
+title: Syncing Notes
+---
 There are two categories of notes that I maintain, public and private.
 
 Public notes are synced with GitHub to the

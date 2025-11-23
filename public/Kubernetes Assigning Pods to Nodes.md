@@ -1,5 +1,6 @@
-# Kubernetes Assigning Pods to Nodes
-
+---
+title: Kubernetes Assigning Pods to Nodes
+---
 There are multiple ways that Kubernetes can assign pods to nodes.
 
 `nodeSelectors` accept a list of labels, the scheduler will then assign

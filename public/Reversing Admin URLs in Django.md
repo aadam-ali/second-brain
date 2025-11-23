@@ -1,5 +1,6 @@
-# Reversing Admin URLs in Django
-
+---
+title: Reversing Admin URLs in Django
+---
 | Action     | Pattern                                       | Args        |
 | ---------- | --------------------------------------------- | ----------- |
 | Changelist | `{{ app_label }}_{{ model_name }}_changelist` |             |

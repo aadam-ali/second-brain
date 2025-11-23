@@ -1,5 +1,6 @@
-# Kubernetes Pods
-
+---
+title: Kubernetes Pods
+---
 Pods are Kuberentes' minimum unit of scheduling, they provide an
 abstraction layer over the workloads they run: containers, WASM apps,
 virtual machines (requires extra config), serverless functions (requires

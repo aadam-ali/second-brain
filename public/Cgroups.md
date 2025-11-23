@@ -1,5 +1,6 @@
-# Cgroups
-
+---
+title: Cgroups
+---
 Cgroups (control groups) are a feature of the Linux kernel that limit,
 and isolate resource usage for a collection of processes.
 
